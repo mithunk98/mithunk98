@@ -1,4 +1,4 @@
-## Mithun Kumam
+## Mithun Kumar
 ---
 
 ### What I'm building
