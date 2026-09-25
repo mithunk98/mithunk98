@@ -1,14 +1,4 @@
-## Mithun Kumar
-
-Data scientist in Bangalore, working on experiment design and causal inference in
-lending and collections — mostly the unglamorous half, where you work out whether a
-result is real before anyone ships it.
-
-Most of what I build starts from the same problem: the clean experiment isn't
-available. The intervention already shipped to everyone, the control group is
-contaminated, the effect is smaller than the noise floor, and the decision still has
-to be made this quarter.
-
+## Mithun Kumam
 ---
 
 ### What I'm building
